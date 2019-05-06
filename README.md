@@ -16,4 +16,4 @@ The inputs are:
 
 4) AVERAGE RATING
 
-5) RATING NO(No Of stars)
+5) RATING NO(No of stars)
